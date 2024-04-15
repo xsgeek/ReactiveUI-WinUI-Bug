@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReactiveUi-Bug (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ReactiveUi-Bug (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
